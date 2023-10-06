@@ -1,4 +1,3 @@
-![MasterHead](https://s6.uupload.ir/files/6_q6gr.png)
 <h1 align="center">Hi 👋, I'm Farzad Solaimani</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/Ug6cbVA1ZsMAAAAd/developer.gif">
